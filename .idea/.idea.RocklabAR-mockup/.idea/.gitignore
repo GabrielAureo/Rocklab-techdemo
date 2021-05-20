@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.RocklabAR-mockup.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\gabri\Documents\RocklabAR-mockup\.idea\.idea.RocklabAR-mockup\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
